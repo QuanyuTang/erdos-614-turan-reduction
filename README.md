@@ -1,6 +1,6 @@
 # Erdős Problem #614: a Turán-type reformulation
 
-This repository contains a short note and computational code related to **Erdős Problem #614** (see the Erdős Problems website).
+This repository contains a short note and computational code related to **Erdős Problem #614** ([see the Erdős Problems website](https://www.erdosproblems.com/614)).
 
 ## Contents
 
