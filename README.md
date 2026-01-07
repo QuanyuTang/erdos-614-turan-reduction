@@ -10,7 +10,7 @@ This repository contains a short note and computational code related to **Erdős
 - `code/compute_Fkmin.nb`  
   Mathematica notebook that computes \(\mathcal F_k^{\min}\) for a given \(k\) using graph6 input.
 
-- `data/graph6/graph4.g6` … `graph9.g6`  
+- `data/graph6/graph3.g6` … `graph9.g6`  
   graph6 files containing (non-isomorphic) simple graphs on 4–9 vertices, used by the notebook.
 
 ## How to run the code
